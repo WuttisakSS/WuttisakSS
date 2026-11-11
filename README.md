@@ -1,8 +1,8 @@
 # Hi there, I'm Wuttiask Songsan <span type="placeholder" placeholder-type="person"></span> 👋
 
 ### 👨‍💻 About Me
-- 🎓 Computer Science Student at **<span type="placeholder" placeholder-type="place">Wuttisa Songsan</span>**
-- 💡 Interested in **Software Engineering, Web Development, and Cloud Technologies**
+- 🎓 Computer Science Student at **<span type="placeholder" placeholder-type="place">University of Phayao</span>**
+- 💡 Interested in **Full-stack Developer, Web Development, and Cloud Technologies**
 - 🎯 Current Goal: Learning Full-Stack Development and Cloud-Native Applications
 - 💬 Ask me about **JavaScript, Python, and Web Frameworks**
 
@@ -41,5 +41,5 @@
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:68021298@up.ac.th)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
